@@ -122,7 +122,7 @@ Se usan para evaluar múltiples condiciones.
 | Operador | Descripción | Ejemplo |
 |----------|------------|---------|
 | `&&` | AND lógico | `(a > 0) && (b > 0)` |
-| `||` | OR lógico | `(a > 0) \|\| (b < 0)` |
+| `\|\|` | OR lógico | `(a > 0) \|\| (b < 0)` |
 | `!` | NOT lógico | `!(a > b)` |
 
 ## Condicionales (`if`, `else if`, `else`)
